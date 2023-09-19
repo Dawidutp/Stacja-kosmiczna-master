@@ -7,5 +7,5 @@ The database was created with H2.
 Client:
 - possibility of finding available diagnosting stations and registering the car for technical inspection
 
-Administartor:
+Administrator:
 - aibility to check the list of a booked technical insepctions
